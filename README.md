@@ -1,4 +1,4 @@
-## **Document Query System**
+1. ## **Document Query System**
 
 ## Overview
 This project showcases an intelligent document query system using **LlamaIndex** that efficiently retrieves relevant sections from large text collections, such as books, and generates accurate responses with **Large Language Models (LLMs)**. The system incorporates **Sentence Retrieval**, which indexes documents at the sentence level to enhance precision in identifying the most relevant information, and **Auto-Merging**, which automatically combines contextually related sentences to produce cohesive answers. Additionally, a feedback mechanism is integrated to ensure continuous improvement in response quality, making the system more effective over time.
