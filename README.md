@@ -67,7 +67,9 @@ pip install trulens-eval llama-index llama-index-embeddings-huggingface torch se
 
 
 
-# 2. **Retrieval-Augmented Generation (RAG) System for Research Papers **
+
+
+# 2. Retrieval-Augmented Generation (RAG) System for Research Papers
 
 This project implements a **Retrieval-Augmented Generation (RAG)** system designed to process and generate insights from research papers. The system utilizes various libraries, including **datasets**, **langchain**, **sentence-transformers**, **qdrant-client**, and **google-generativeai**, to achieve efficient text retrieval and generation.
 
