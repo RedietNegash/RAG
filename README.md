@@ -121,17 +121,6 @@ pip install google-generativeai
 
 ## Evaluation
 
-The system's performance can be evaluated using various metrics, including **accuracy**, **precision**, **recall**, and **F1-score**. Here's how to set up an evaluation:
-
-```python
-from sklearn.metrics import accuracy_score, precision_recall_fscore_support
-
-# Define sample queries and expected answers
-sample_queries = ["What is the problem of statistical learning?"]
-expected_answers = ["Statistical learning addresses the problem of making predictions based on data."]
-
-# Evaluate the system
-evaluate_rag_system(sample_queries, expected_answers, model, qdrant)
-```
+The system's performance can be evaluated using various metrics, including **accuracy**, **precision**, **recall**, and **F1-score**.
 
 
